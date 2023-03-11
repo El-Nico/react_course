@@ -1,0 +1,36 @@
+.mainContainer {
+    padding: 57px 27px;
+    background-color: #282D35;
+    height: 100dvh;
+    color: #fff;
+    background-image: url("https://source.unsplash.com/random/?react,logo");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /*background-position-x: right;
+    background-position-y: 75%; */
+}
+
+h1 {
+    margin: 0;
+    text-align: left;
+    font-size: 39px;
+    font-weight: bolder;
+    letter-spacing: -0.05em;
+}
+
+ul {
+    text-align: left;
+    margin-top: 46px;
+    max-width: 800px;
+}
+
+ul>li {
+    padding: 1rem;
+    font-size: 20px;
+    line-height: 19px;
+}
+
+ul>li::marker {
+    color: #61DAFB;
+    font-size: 1.4rem;
+}
