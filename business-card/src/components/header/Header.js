@@ -3,12 +3,12 @@ import './header.css'
 export function Header() {
   return (
     <header>
-      <img src={portrait} alt="human_female_portrait" />
+      <img src={portrait} alt="human_male_portrait" />
       <div className="headerText">
         <div className="profile">
-          <h1>Laura Smith</h1>
+          <h1>Nicholas Eruba</h1>
           <h3>Frontend Developer</h3>
-          <p>laurasmith.website</p>
+          <p>nicholas-eruba.com</p>
         </div>
 
         <div className="buttons">
