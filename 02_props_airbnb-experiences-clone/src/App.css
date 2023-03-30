@@ -1,0 +1,5 @@
+div>section {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}

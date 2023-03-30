@@ -1,0 +1,7 @@
+.joke-card {
+    border: 2px solid black;
+    margin: 10px 40px;
+    background: #dfcfbe;
+    border-radius: 10px;
+    min-height: 200px;
+}

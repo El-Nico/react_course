@@ -1,9 +1,6 @@
 .card {
     width: 175px;
     font-size: 12px;
-    position: absolute;
-    display: flex;
-    flex-direction: column;
 }
 
 .card--image {
